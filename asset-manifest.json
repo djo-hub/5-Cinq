@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/5-Cinq/static/css/main.e6c13ad2.css",
+    "main.js": "/5-Cinq/static/js/main.71f23b4b.js",
+    "static/js/453.8e5e44e4.chunk.js": "/5-Cinq/static/js/453.8e5e44e4.chunk.js",
+    "static/media/store.png": "/5-Cinq/static/media/store.c5318d7d550edf3c22d6.png",
+    "static/media/valo25.png": "/5-Cinq/static/media/valo25.bf7a42f0b30ea781165f.png",
+    "static/media/valo50.png": "/5-Cinq/static/media/valo50.af41b092cbbe5f56edc6.png",
+    "static/media/valo20.png": "/5-Cinq/static/media/valo20.d4ea637ec1215f7945f3.png",
+    "static/media/valo.png": "/5-Cinq/static/media/valo.f4f358c9fc97ed3a203f.png",
+    "static/media/as25.png": "/5-Cinq/static/media/as25.e36a68fe7b28c66a3473.png",
+    "static/media/ps100.png": "/5-Cinq/static/media/ps100.a4b9e7fc723e1288b785.png",
+    "static/media/psp12.png": "/5-Cinq/static/media/psp12.12250beddb16e98d28a1.png",
+    "static/media/psp6.png": "/5-Cinq/static/media/psp6.130c1112e118429ceb76.png",
+    "static/media/psp3.png": "/5-Cinq/static/media/psp3.38e4432949908cbedfe1.png",
+    "static/media/steam50.png": "/5-Cinq/static/media/steam50.482f446ad3a5c7e1bdc2.png",
+    "static/media/xb.png": "/5-Cinq/static/media/xb.4dd6047f501e0ad090b1.png",
+    "static/media/steam30.png": "/5-Cinq/static/media/steam30.4d2dbdcf5760b61e2c9d.png",
+    "static/media/as50.png": "/5-Cinq/static/media/as50.74d4add9ae2143ac1288.png",
+    "static/media/steam20.png": "/5-Cinq/static/media/steam20.29bced78f9cdb828dd9f.png",
+    "static/media/steam10.png": "/5-Cinq/static/media/steam10.4bb4635a403cbdce7ae7.png",
+    "static/media/steam5.png": "/5-Cinq/static/media/steam5.151f3c4370c80810d5e7.png",
+    "static/media/gp50.png": "/5-Cinq/static/media/gp50.a0ee822a3bfd7629526a.png",
+    "static/media/ea.png": "/5-Cinq/static/media/ea.5e17b52f4ddca8938759.png",
+    "static/media/gp25.png": "/5-Cinq/static/media/gp25.345a1e428bda1e9116d5.png",
+    "static/media/xbgp.png": "/5-Cinq/static/media/xbgp.514596070fb3dcd079a9.png",
+    "static/media/gppc.png": "/5-Cinq/static/media/gppc.711f3307821ae301718c.png",
+    "static/media/gp100.png": "/5-Cinq/static/media/gp100.28f9cc7af4afa844f045.png",
+    "static/media/gpxb.png": "/5-Cinq/static/media/gpxb.c14f74d4061ecef8eb72.png",
+    "static/media/ps50.png": "/5-Cinq/static/media/ps50.43b6aa027ce501d6ff6e.png",
+    "static/media/ps25.png": "/5-Cinq/static/media/ps25.6e53e845f3cffc915d6d.png",
+    "static/media/ps10.png": "/5-Cinq/static/media/ps10.7de8d86882945fb04de7.png",
+    "static/media/ps5.png": "/5-Cinq/static/media/ps5.cce0145cc31d685ac68b.png",
+    "index.html": "/5-Cinq/index.html",
+    "main.e6c13ad2.css.map": "/5-Cinq/static/css/main.e6c13ad2.css.map",
+    "main.71f23b4b.js.map": "/5-Cinq/static/js/main.71f23b4b.js.map",
+    "453.8e5e44e4.chunk.js.map": "/5-Cinq/static/js/453.8e5e44e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71f23b4b.js"
+  ]
+}
