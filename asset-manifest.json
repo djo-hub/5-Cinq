@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/5-Cinq/static/js/main.ac9e925e.js",
+    "main.js": "/5-Cinq/static/js/main.d8612dfb.js",
     "static/js/453.8e5e44e4.chunk.js": "/5-Cinq/static/js/453.8e5e44e4.chunk.js",
-    "static/media/store.png": "/5-Cinq/static/media/store.c5318d7d550edf3c22d6.png",
+    "static/media/store.png": "/5-Cinq/static/media/store.9976d2c4ff2096963de9.png",
     "static/media/valo25.png": "/5-Cinq/static/media/valo25.bf7a42f0b30ea781165f.png",
     "static/media/valo50.png": "/5-Cinq/static/media/valo50.af41b092cbbe5f56edc6.png",
     "static/media/valo20.png": "/5-Cinq/static/media/valo20.d4ea637ec1215f7945f3.png",
@@ -31,10 +31,10 @@
     "static/media/ps10.png": "/5-Cinq/static/media/ps10.7de8d86882945fb04de7.png",
     "static/media/ps5.png": "/5-Cinq/static/media/ps5.cce0145cc31d685ac68b.png",
     "index.html": "/5-Cinq/index.html",
-    "main.ac9e925e.js.map": "/5-Cinq/static/js/main.ac9e925e.js.map",
+    "main.d8612dfb.js.map": "/5-Cinq/static/js/main.d8612dfb.js.map",
     "453.8e5e44e4.chunk.js.map": "/5-Cinq/static/js/453.8e5e44e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac9e925e.js"
+    "static/js/main.d8612dfb.js"
   ]
 }
