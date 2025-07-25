@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/5-Cinq/static/js/main.82a60f03.js",
+    "main.css": "/5-Cinq/static/css/main.49dbad00.css",
+    "main.js": "/5-Cinq/static/js/main.8e86c01a.js",
     "static/js/453.8e5e44e4.chunk.js": "/5-Cinq/static/js/453.8e5e44e4.chunk.js",
     "static/media/store.png": "/5-Cinq/static/media/store.9976d2c4ff2096963de9.png",
     "static/media/valo25.png": "/5-Cinq/static/media/valo25.bf7a42f0b30ea781165f.png",
@@ -31,10 +32,12 @@
     "static/media/ps10.png": "/5-Cinq/static/media/ps10.7de8d86882945fb04de7.png",
     "static/media/ps5.png": "/5-Cinq/static/media/ps5.cce0145cc31d685ac68b.png",
     "index.html": "/5-Cinq/index.html",
-    "main.82a60f03.js.map": "/5-Cinq/static/js/main.82a60f03.js.map",
+    "main.49dbad00.css.map": "/5-Cinq/static/css/main.49dbad00.css.map",
+    "main.8e86c01a.js.map": "/5-Cinq/static/js/main.8e86c01a.js.map",
     "453.8e5e44e4.chunk.js.map": "/5-Cinq/static/js/453.8e5e44e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.82a60f03.js"
+    "static/css/main.49dbad00.css",
+    "static/js/main.8e86c01a.js"
   ]
 }
